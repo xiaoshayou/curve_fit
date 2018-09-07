@@ -1,4 +1,5 @@
 # curve_fit
 使用python拟合曲线
 
-# 最好在jupyter上运行
+ref:https://www.cnblogs.com/gslyyq/p/5043847.html
+
